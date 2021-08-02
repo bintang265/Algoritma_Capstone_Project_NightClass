@@ -18,8 +18,6 @@ This is Capstone Project at Algoritma Academy in Data Analytics Specialization w
 
 ### The Final Mission
 
-Pada captsone kali ini, Bapak Ibu bisa memilih salah satu soal ini untuk dikerjakan.
-
 1. (Easy) Data Volume Penjualan Ethereum dari `https://www.coingecko.com/en/coins/ethereum/historical_data/usd?start_date=2020-01-01&end_date=2021-06-30#panel`
 
    * Dari halaman tersebut carilah `Date`, dan `Volume`.
